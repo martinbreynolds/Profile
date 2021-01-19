@@ -1,7 +1,3 @@
-# Welcome to my Profile Page.
-
-## Martin Reynolds
-
 
 
 ![Profile Pic](/images/profile.jpg)
