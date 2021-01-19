@@ -1,10 +1,11 @@
-# Welcome to my Profile Page.
 
-## Martin Reynolds
+
+![Profile Pic](/images/profile.jpg)
+
+
 
 ### Markdown
 
-![Profile Pic](/images/profile.jpg)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
