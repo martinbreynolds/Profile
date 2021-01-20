@@ -1,7 +1,6 @@
 # It's good of you to drop by...
 
-![Profile Pic](/images/profile.jpg)
-
+<img src="https://martinbreynolds.github.io/Profile/images/profile.jpg" width="100%">
 
 ## A bit about me..
 
