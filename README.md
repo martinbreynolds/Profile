@@ -5,39 +5,17 @@
 
 ## A bit about me..
 
-Based in Gods Own County, West Yorkshire, I have had an interest in web and web development for the last 20 years.  During the summer I started to take my learning up a level and self taught myself some PHP and increased my skills in HTML, CSS and SCSS.  Using thh skills I learnt I built my wife a website for her business, [Charlie's Gents Barbers](https://www.charliesbrighouse.com), using wordpress, with a fully custom theme.
+I have had an interest in web and web development for the last 20 years.  During the summer I started to take my learning up a level and self taught myself some PHP and increased my skills in HTML, CSS and SCSS.  Using thh skills I learnt I built my wife a website for her business, [Charlie's Gents Barbers](https://www.charliesbrighouse.com), using wordpress, with a fully custom theme.
 
-I currently work as an office coordinator for a small local charity which supportds families with disabled children.
+I currently work as an office coordinator for a small local charity which supportds families with disabled children, and have a strong interest in accessible web applciations.
 
-### Markdown
+# Keeping the mind and body healthy.
+
+I enjoy running and run with a local running club.  I took up running in 2018 and I ran my first ever marathon in October 2020.  Along with my marriage and children, this is one fo my greatest achievements and really tested the mind and body.  I am a FA qualified coach and coach my little boys team, truly testing but extremely rewarding.  I enjoy playing golf when I can, as well as the odd glass of bourbon to relax.
+
+# Skills I have.
+
+As part of my role with the charity, I look after the social media, print media and website.  Along the way I have had to self teach myself lots of skills, including Adobe Illustrator, InDesign, Premier Pro and After Effects.
 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/martinbreynolds/profile/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Thanks for dropping by...
