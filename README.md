@@ -11,7 +11,7 @@ I currently work as an office coordinator for a small local charity which suppor
 
 # Keeping the mind and body healthy.
 
-I enjoy running and run with a local running club.  I took up running in 2018 and I ran my first ever marathon in October 2020.  Along with my marriage and children, this is one fo my greatest achievements and really tested the mind and body.  I am a FA qualified coach and coach my little boys team, truly testing but extremely rewarding.  I enjoy playing golf when I can, as well as the odd glass of bourbon to relax.
+I enjoy running and run with a local running club.  I took up running in 2018 and I ran my first ever marathon in October 2020.  Along with my marriage and children, this is one fo my greatest achievements and really tested the mind and body.  I also enjoy getting out on the hills, discovering new tracks and paths.  I am a FA qualified coach and coach my little boys team, truly testing but extremely rewarding.  I enjoy playing golf when I can, as well as the odd glass of bourbon to relax.
 
 # Skills I have.
 
