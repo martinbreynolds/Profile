@@ -16,5 +16,12 @@ I enjoy running and run with a local running club.  I took up running in 2018 an
 
 As part of my role with the charity, I look after the social media, print media and website.  Along the way I have had to self teach myself lots of skills, including Adobe Illustrator, InDesign, Premier Pro and After Effects.
 
+# Study Projects
+
+Currently Studying JAMstack with @thecodersguilduk
+
+**Challenges**
+[Semantic HTML](https://martinbreynolds.github.io/semantic-html-challenge/)
+
 
 Thanks for dropping by...
