@@ -21,6 +21,7 @@ As part of my role with the charity, I look after the social media, print media 
 Currently Studying JAMstack with @thecodersguilduk
 
 **Challenges**
+
 [Semantic HTML](https://martinbreynolds.github.io/semantic-html-challenge/)
 
 
